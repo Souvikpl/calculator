@@ -21,3 +21,5 @@ function deleteVal(){
     display.value = display.value.toString().slice(0, -1);
 }
 
+//Done
+
